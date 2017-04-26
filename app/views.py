@@ -10,3 +10,11 @@ def index(request):
 
 def base(request):
     return render(request, "base.html")
+
+
+def vendedorA(request):
+    return render(request, "FichaVendedor(alumno).html")
+
+
+def vendedorV(request):
+    return render(request, "FichaVendedor(vendedor).html")
