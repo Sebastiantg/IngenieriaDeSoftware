@@ -10,8 +10,16 @@
           <option name="url" value="https://github.com/Sebastiantg/IngenieriaDeSoftware.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:DCC-CC4401/Grupo-Zero.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DCC-CC4401/Grupo-Zero.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\" />
+    <option name="cloneParentDir" value="C:\Users\Sebastián Toro\Documents\Universidad\CC4401-1 Ingeniería de Software" />
   </component>
 </application>
