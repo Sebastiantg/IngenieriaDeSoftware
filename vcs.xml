@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/facebookarchive/python-instagram.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ddworken/racython" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Sebastián Toro\Documents\Universidad\InstagramOf" />
+    <option name="cloneParentDir" value="C:\Users\Sebastián Toro\Documents\Universidad\" />
   </component>
 </application>
